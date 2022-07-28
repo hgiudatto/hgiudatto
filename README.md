@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hgiudatto
 - 👀 I’m interested in building web apps and Rest apis
-- 🌱 I’m currently learning React
+- 🌱 I’m currently building MERN apps
